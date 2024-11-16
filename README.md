@@ -5,3 +5,6 @@
     * Use Processing to open the project
     ** Run the simulation file, 'simulation.pde'
     *** Experiment with the particles and observe any interactions and movement!
+
+    *** Experiment with the particles and observe any interactions and movement!
+
