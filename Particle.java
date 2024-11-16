@@ -70,4 +70,10 @@ public class Particle {
         velocityX = vx;
         velocityY = vy;
     }
+    public void respawn() {
+        this.x = Math.random() * maxX;
+        this.y = Math.random() * maxY;
+        this.velocityX = (Math.random() * 2 - 1) * 5; 
+        this.velocityY = (Math.random() * 2 - 1) * 5
+}
 }
