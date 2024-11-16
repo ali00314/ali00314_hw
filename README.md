@@ -1,3 +1,4 @@
+
 ## Homework 2 - Particle Simulator 
 ## Project Owner: Ahlam Ali
 ## Description: This project consists of a Particle Simulator where particles are created and put in a simulation that lets them respond and interact to multiple forces 
